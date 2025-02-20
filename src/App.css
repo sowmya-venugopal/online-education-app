@@ -1,0 +1,43 @@
+body{
+    background-image: url('../public/images/bg-image.jpg');
+    background-repeat: no-repeat;
+background-size: cover;
+
+}
+.brder{
+    border: 1px solid black;
+}
+ .as{
+    
+
+    width:100%;
+    background-color: rgba(128, 128, 128, 0.769);
+    color: white;
+    
+    padding-top: 7px;
+    
+    padding-bottom: 11px;
+    text-align: center;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

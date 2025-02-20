@@ -1,0 +1,35 @@
+.bg-image
+{
+    background-color: rgb(30, 129,0);
+}
+.margin-t{
+    margin-top: 130px;
+    width: 470px;
+    margin-right:19px;
+    }
+    .butn{
+        background-color:rgb(129,129,129,0.3)
+    }
+
+    .fp{
+        color: rgb(129,129,129,0.3);
+    }
+    .fr{
+        color: rgb(129,129,129,0.3);
+    }
+.ln{
+    color: #f9f9f9;
+}
+
+.ln-b{
+    color: black;
+}
+.submit-button{
+background-color: #f9f9f9;
+color: rgb(30, 129,0);
+}
+.retr{
+    color: #f9f9f9;
+
+
+}

@@ -1,0 +1,6 @@
+/* Align navbar items to the end (right side) */
+.navbar-nav {
+    display: flex;
+    justify-content: flex-end; /* This aligns the menu items to the right */
+  }
+  

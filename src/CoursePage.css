@@ -1,0 +1,33 @@
+.image-fixed-size {
+         /* Set desired height in pixels */
+    object-fit: cover; /* Ensures the image covers the area without distortion */
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center; /* Optional: Adds rounded corners to the images */
+  }
+
+
+
+
+
+
+
+
+  .txt-center{
+    margin-left: 130px;
+    margin-top: 7px;
+    margin-bottom: 19px;
+    
+
+  }
+
+.course{
+
+    color:rgb(30,129,0);
+
+  }
+  .button-color{
+    color: white;
+    text-decoration: none;
+  }
+

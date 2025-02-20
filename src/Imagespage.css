@@ -1,0 +1,15 @@
+/* Set a fixed width and height for the images */
+.image-fixed-size {
+    width: 370px;      /* Set desired width in pixels */
+    height: 250px;     /* Set desired height in pixels */
+    object-fit: cover; /* Ensures the image covers the area without distortion */
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center; /* Optional: Adds rounded corners to the images */
+  }
+  
+  .ab{
+    margin-top: 80px;
+  }
+
+  
